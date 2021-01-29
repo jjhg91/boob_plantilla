@@ -1,0 +1,139 @@
+.fueraDer{
+	position: absolute;
+	right: 2.7%;
+	width: 47.3%;
+}
+.fueraDer > img{
+
+	max-height: 660px; 
+	max-width: 680px;
+}
+.fueraIzq{
+position: absolute;
+left: 2.7%;
+width: 47.3%
+}
+.logo{
+position: absolute;
+left: 2.7%;
+width: 47.3%
+}
+button.btnColor{
+	background-color: rgb(255,57,70);
+	color: white;
+	border-radius: 30px;
+	padding: 8px 20px;
+	border: none;
+	box-shadow: 2px 6px 5px 0px rgba(0,0,0,0.3);
+}
+header > section{
+	margin-top: 100px;
+}
+header nav#personal div ul li a {
+	color: rgb(49,69,132);
+	font-weight: bold;
+}
+header nav#personal div ul li a#contact{
+	color: rgb(255,57,70);
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+}
+h1,h2,h3,h4,h5{
+	color: rgb(49,69,132);
+}
+header section p{
+	color: rgb(110,117,122);
+}
+header section .btnNada{
+	color: rgb(49,69,132);
+	font-weight: bold;
+	border: none;
+	background: transparent;
+}
+main > section{
+	margin-top: ;
+	margin-bottom: ;
+}
+main section p{
+	color: rgb(49,69,132);
+}
+main section .color{
+	font-weight: bold;
+	color: rgb(255,57,70);
+}
+main section form#formAqui .formColor {
+	background-color: rgb(244,250,254);
+	color: rgb(49,69,132);
+	font-weight: bold;
+	font-size: 0.8rem;
+}
+span.fecha{
+	display: inline-block;
+	font-size: 0.85rem;
+	color: rgb(110,117,122);
+}
+span.flecha{
+	color: rgb(255,57,70);
+}
+div.cardActiva{
+	background-color: rgb(255,57,70);
+}
+div.cardActiva div h5, 
+div.cardActiva div span.fecha,
+div.cardActiva div p,
+div.cardActiva div p span.flecha
+{
+		color: white;
+}
+div.card{
+	border: none;
+	box-shadow: 3px 4px 15px rgba(0,0,0,0.3);
+}
+.btnActiva{
+	border: none;
+	background: transparent;
+	color: rgb(49,59,132);
+}
+.btnInactiva{
+	border: none;
+	background: transparent;
+	color: rgb(187,187,188);
+}
+
+footer.final{
+	background-color: rgb(49,69,132);
+}
+footer.final,
+footer.final hgroup h5{
+	color: white;
+	font-size: 0.9rem
+}
+footer.final hgroup h2{
+	color: rgb(255,57,70);
+}
+
+footer.final div  span.reservado{
+	font-size: 0.8rem;
+}
+footer.final div div.social span{
+	font-size: 2rem;
+}
+header section,
+main section.container{
+	padding-top: 100px;
+}
+.tarjeta1{
+	min-height: 388px;
+	max-height: 324px;
+	padding-top: 28px;
+	padding-left: 34px;
+	padding-bottom: 40px;
+	padding-right: 34px;
+}
+.tarjeta1 >  img{
+	display: ;
+	margin-left: 25px;
+	margin-bottom: 50px;	
+}
+.tarjeta1 > div > h4{
+	margin-bottom: 35px;
+}
